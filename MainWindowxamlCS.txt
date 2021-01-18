@@ -1,8 +1,0 @@
-/*
-This is the 1st of many videos about designing GUI interfaces with WPF and XAML.
-Windows Presentation Foundation (WPF) is used to create graphical user interfaces. 
-Using XAML eXtensible Application Markup Language you can create the UI using XML like tags.
-
-We’ll also look at event handling, tracking mouse movements, open dialogs, save dialogs, 
-popups, multiple layout managers and much more.
-*/
