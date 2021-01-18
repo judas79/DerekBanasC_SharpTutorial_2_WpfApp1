@@ -94,5 +94,21 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\RobotRods16.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="19 WPF XAML GUI_Interface Properties MessageBoxEventHandling Rsources LayoutManagers\MainWindowXAML - Canvas Panel.txt" />
+    <Resource Include="19 WPF XAML GUI_Interface Properties MessageBoxEventHandling Rsources LayoutManagers\MainWindowxamlCS.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="19 WPF XAML GUI_Interface Properties MessageBoxEventHandling Rsources LayoutManagers\MainWindowXAML - Stack Panel.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="19 WPF XAML GUI_Interface Properties MessageBoxEventHandling Rsources LayoutManagers\MainWindowXAML - Wrap Panel.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="19 WPF XAML GUI_Interface Properties MessageBoxEventHandling Rsources LayoutManagers\MainWindowXAML - Grid Panel.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
