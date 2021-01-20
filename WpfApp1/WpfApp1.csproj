@@ -110,5 +110,35 @@
   <ItemGroup>
     <Resource Include="19 WPF XAML GUI_Interface Properties MessageBoxEventHandling Rsources LayoutManagers\MainWindowXAML - Grid Panel.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\20 MainWindow.xaml.cs.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\20 Grid ScrollViewer MainWindow.xaml.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\20 DockPanel MainWindow.xaml.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\20 Menu in DockPanel MainWindow.xaml.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Save.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\New.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Open.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Cut.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Paste.bmp" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,4 +1,13 @@
-﻿using Microsoft.Win32;
+﻿/*
+In this part of my C# tutorial we’ll continue learning about WPF and XAML. We’ll cover the MenuBars, Assigning Shortcuts, 
+Grid Layout, ScrollViewer, DockPanel, Changing Fonts, the OpenFileDialog, the SaveFileDialog and a whole lot more.
+/*
+Create rows and columns by click on the outside borders of the box in the MainWindow.xaml, along the sides, 
+and drag the dividers, where you want them.
+/*
+
+
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Linq;
