@@ -140,5 +140,8 @@
   <ItemGroup>
     <Resource Include="Resources\Paste.bmp" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\MenuTextEditor.exe" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
