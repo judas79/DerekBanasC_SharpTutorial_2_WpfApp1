@@ -1,4 +1,11 @@
-﻿using Microsoft.Win32;
+﻿/*
+In this part of my WPF tutorial I’ll cover how to do a ton of things with toolbars. We’ll Create the Toolbar, Add Icons, Open / Save Files, 
+Use Shortcuts, Copy / Cut / Paste, Change Fonts in Comboboxes and more.
+This video continues, where the previous video tut. 20 left off.  Continue this tutorial, where the menu  ends; after </Menu>.
+/*
+
+
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Linq;

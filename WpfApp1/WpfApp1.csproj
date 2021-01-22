@@ -129,19 +129,18 @@
     <Resource Include="Resources\New.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\Open.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\Cut.bmp" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Copy.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\Paste.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\MenuTextEditor.exe" />
+    <Resource Include="21 Toolbar AddIcons OpenSaveFiles UseShortcuts CopyCutPaste ChangeFontsinComboboxes\21 MainWindow.xaml.txt" />
+    <Resource Include="Resources\Paste.bmp" />
+    <Resource Include="Resources\Open.bmp" />
+    <Resource Include="Resources\New.bmp" />
+    <Resource Include="21 Toolbar AddIcons OpenSaveFiles UseShortcuts CopyCutPaste ChangeFontsinComboboxes\21 MainWindow.xaml.cs.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
