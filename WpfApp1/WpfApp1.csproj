@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\MenuTextEditor.exe" />
+    <Content Include="21 Toolbar AddIcons OpenSaveFiles UseShortcuts CopyCutPaste ChangeFontsinComboboxes\MenuTextEditor_2.exe" />
     <Resource Include="21 Toolbar AddIcons OpenSaveFiles UseShortcuts CopyCutPaste ChangeFontsinComboboxes\21 MainWindow.xaml.txt" />
     <Resource Include="Resources\Paste.bmp" />
     <Resource Include="Resources\Open.bmp" />
