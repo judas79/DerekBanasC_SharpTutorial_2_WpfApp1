@@ -1,4 +1,10 @@
-﻿using Microsoft.Win32;
+﻿/*
+In this part of my C# tutorial I cover Tabs, Calendars, InkCanvas, How to Make a Paint App, 
+StackPanels, Toolbars and a whole lot more.
+*/
+
+
+using Microsoft.Win32;
 using System;
 using System.IO;
 using System.Collections.Generic;
