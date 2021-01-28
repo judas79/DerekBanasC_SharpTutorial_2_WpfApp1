@@ -137,6 +137,9 @@
   <ItemGroup>
     <Content Include="20 MenuBars AssigningShortcuts GridLayout ScrollViewer DockPanel ChangingFonts OpenFileDialog SaveFileDialog\MenuTextEditor.exe" />
     <Content Include="21 Toolbar AddIcons OpenSaveFiles UseShortcuts CopyCutPaste ChangeFontsinComboboxes\MenuTextEditor_2.exe" />
+    <Content Include="23 Document API layoutManagers XPS FlowDocument FlowDocumentReader FlowDocumentPageViewer FlowDocumentScrollViewer and RichTextBox\MenuTextEditor_3.exe" />
+    <Resource Include="23 Document API layoutManagers XPS FlowDocument FlowDocumentReader FlowDocumentPageViewer FlowDocumentScrollViewer and RichTextBox\23 MainWindow.xaml.txt" />
+    <Resource Include="23 Document API layoutManagers XPS FlowDocument FlowDocumentReader FlowDocumentPageViewer FlowDocumentScrollViewer and RichTextBox\23 MainWindow.xaml.cs.txt" />
     <Resource Include="22 InkCanvas KeyListeners Tabs Calendars InkCanvas PaintApp StackPanels Toolbars\22 MainWindow.xml.txt" />
     <Resource Include="C Sharp Language cheat sheet.txt" />
     <Resource Include="22 InkCanvas KeyListeners Tabs Calendars InkCanvas PaintApp StackPanels Toolbars\22 MainWindow.xml.cs.txt" />
