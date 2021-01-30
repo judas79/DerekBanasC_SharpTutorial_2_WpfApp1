@@ -1,4 +1,10 @@
-﻿using Microsoft.Win32;
+﻿/*
+In this part of my C# video tutorial I show how to make a Paint App, and then we look at Drawing Lines, 
+Ellipses, and Rectangles using Canvas. We’ll be using System.Windows.Shapes in this tutorial. 
+They are great to work with because they respond to events just like other WPF components.
+*/
+
+using Microsoft.Win32;
 using System;
 using System.IO;
 using System.Collections.Generic;
